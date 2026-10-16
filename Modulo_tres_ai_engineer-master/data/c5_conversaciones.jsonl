@@ -1,0 +1,10 @@
+{"id": "S-01", "pasajero_id": "P-1001", "turnos": ["M-01", "M-23"], "descripcion": "Pregunta por su vuelo y después trae tres dudas juntas."}
+{"id": "S-02", "pasajero_id": "P-1001", "turnos": ["M-05", "M-07", "M-17"], "descripcion": "Sigue sus valijas y termina con el caso del track (valija + demora)."}
+{"id": "S-03", "pasajero_id": "P-1001", "turnos": ["M-13", "M-19", "M-18"], "descripcion": "Dos cancelaciones: la meteorológica (sin compensación) y la operativa."}
+{"id": "S-04", "pasajero_id": "P-1001", "turnos": ["M-08", "M-20"], "descripcion": "Equipaje en tarifa Lite y el viaje a Cusco con un reembolso en revisión."}
+{"id": "S-05", "pasajero_id": "P-1001", "turnos": ["M-03", "M-11", "M-22"], "descripcion": "Todo sobre la reserva H2LQ7Z: vuelos, reembolso, cambio o cancelación."}
+{"id": "S-06", "pasajero_id": "P-1002", "turnos": ["M-06", "M-21"], "descripcion": "La valija en búsqueda de Andrés: estado y qué pasa si se pierde."}
+{"id": "S-07", "pasajero_id": "P-1001", "turnos": ["M-15", "M-16", "M-02"], "descripcion": "Dos consultas fuera de alcance y una de vuelo."}
+{"id": "S-08", "pasajero_id": "P-1001", "turnos": ["M-24", "M-09"], "descripcion": "Falla parcial (reserva ajena) y después un reembolso Flex."}
+{"id": "S-09", "pasajero_id": "P-1001", "turnos": ["M-12", "M-25"], "descripcion": "Demorada en Ezeiza con el OA0417."}
+{"id": "S-10", "pasajero_id": "P-1001", "turnos": ["M-04", "M-10", "M-14"], "descripcion": "Preguntas de política sin datos: cambio, acreditación y daño."}

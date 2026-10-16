@@ -1,0 +1,22 @@
+[project]
+name = "orbitair-m3"
+version = "0.1.0"
+description = "AI Engineering 2.0 · M3 · Agentes y orquestación sobre OrbitAir (track espejo del instructor)"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.50",
+    "tiktoken>=0.8",
+    "numpy>=1.26",
+    "python-dotenv>=1.0",
+    # C2 · LangGraph (grafo de estado, checkpoints, human-in-the-loop, streaming)
+    "langgraph>=1.0",
+    "langgraph-checkpoint-sqlite>=2.0",
+    # C4 · MCP (SDK oficial 2.x: MCPServer, Client)
+    "mcp>=2.3",
+    # C5 · Langfuse (SDK 4.x, sobre OpenTelemetry): trazas, sesiones, scores, datasets
+    "langfuse>=4.0",
+]
+
+[tool.uv]
+# Con `uv run` no hace falta activar el venv: uv lo crea y sincroniza solo.
+package = false

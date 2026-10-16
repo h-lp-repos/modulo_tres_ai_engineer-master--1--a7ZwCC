@@ -1,0 +1,121 @@
+id,nombre,ciudad_residencia,socio_plus
+P-1001,Lucía Fernández,Buenos Aires,si
+P-1002,Andrés Quispe,Lima,no
+P-2002,Carolina Méndez,Santiago,si
+P-3000,Nicolás Díaz,São Paulo,no
+P-3001,Valentina Gómez,Bogotá,no
+P-3002,Benjamín Gómez,Buenos Aires,no
+P-3003,Isabella Morales,Buenos Aires,no
+P-3004,Lucas Castro,Montevideo,si
+P-3005,Isabella González,Lima,no
+P-3006,Santiago Vargas,São Paulo,si
+P-3007,Joaquín Pérez,Córdoba,si
+P-3008,Mateo Rodríguez,Córdoba,no
+P-3009,Nicolás Díaz,Montevideo,no
+P-3010,Florencia Díaz,Montevideo,no
+P-3011,Diego Rojas,Buenos Aires,no
+P-3012,Valentina Herrera,Montevideo,no
+P-3013,Tomás Díaz,Córdoba,si
+P-3014,Benjamín González,Lima,si
+P-3015,Lucas Medina,Lima,si
+P-3016,Nicolás Torres,Córdoba,si
+P-3017,Tomás Rojas,Montevideo,no
+P-3018,Camila Vargas,Santiago,no
+P-3019,Florencia Medina,Lima,no
+P-3020,Antonella Herrera,Buenos Aires,no
+P-3021,Antonella Díaz,São Paulo,si
+P-3022,Nicolás Rodríguez,Santiago,no
+P-3023,Nicolás Vargas,Montevideo,no
+P-3024,Diego Silva,Buenos Aires,si
+P-3025,Martina Torres,Córdoba,si
+P-3026,Martina Vargas,São Paulo,no
+P-3027,Joaquín Romero,São Paulo,no
+P-3028,Joaquín Ortiz,Lima,no
+P-3029,Joaquín Rojas,Bogotá,no
+P-3030,Tomás Pérez,Lima,si
+P-3031,Sofía Díaz,Bogotá,no
+P-3032,Nicolás Pérez,Buenos Aires,no
+P-3033,Antonella González,São Paulo,no
+P-3034,Lucas Torres,São Paulo,no
+P-3035,Lucas Ruiz,Montevideo,si
+P-3036,Isabella Pérez,São Paulo,si
+P-3037,Renata Morales,Buenos Aires,si
+P-3038,Nicolás Pérez,Lima,no
+P-3039,Sofía Castro,Córdoba,no
+P-3040,Lucas González,Lima,no
+P-3041,Mateo Silva,São Paulo,no
+P-3042,Antonella Silva,Santiago,no
+P-3043,Joaquín Ruiz,São Paulo,no
+P-3044,Nicolás Romero,Bogotá,si
+P-3045,Santiago Gómez,Montevideo,no
+P-3046,Diego Ortiz,Montevideo,no
+P-3047,Valentina Herrera,Bogotá,no
+P-3048,Isabella Herrera,Córdoba,no
+P-3049,Diego Castro,Buenos Aires,si
+P-3050,Isabella Pérez,Buenos Aires,no
+P-3051,Tomás Rodríguez,Lima,no
+P-3052,Santiago Silva,Córdoba,no
+P-3053,Benjamín Gómez,Bogotá,no
+P-3054,Valentina Pérez,Bogotá,no
+P-3055,Isabella Herrera,Santiago,no
+P-3056,Isabella Ortiz,Buenos Aires,no
+P-3057,Diego Medina,Montevideo,no
+P-3058,Sofía Ruiz,Bogotá,si
+P-3059,Martina Vargas,Lima,no
+P-3060,Sofía Castro,Buenos Aires,no
+P-3061,Tomás Ortiz,Santiago,no
+P-3062,Martina Pérez,Lima,si
+P-3063,Antonella Silva,Buenos Aires,si
+P-3064,Santiago Morales,São Paulo,no
+P-3065,Antonella Castro,Bogotá,no
+P-3066,Nicolás Ruiz,Bogotá,no
+P-3067,Antonella Rojas,São Paulo,si
+P-3068,Benjamín Rodríguez,Santiago,no
+P-3069,Florencia Silva,Montevideo,si
+P-3070,Florencia Díaz,Bogotá,no
+P-3071,Santiago Rodríguez,Buenos Aires,no
+P-3072,Camila Ortiz,Montevideo,no
+P-3073,Joaquín González,Lima,no
+P-3074,Joaquín Medina,Bogotá,no
+P-3075,Joaquín Medina,Bogotá,no
+P-3076,Benjamín González,Santiago,no
+P-3077,Diego González,São Paulo,no
+P-3078,Martina Rodríguez,Montevideo,no
+P-3079,Antonella Morales,Buenos Aires,no
+P-3080,Tomás Rojas,Buenos Aires,no
+P-3081,Tomás Rojas,Montevideo,no
+P-3082,Nicolás Romero,Buenos Aires,no
+P-3083,Lucas Herrera,Buenos Aires,no
+P-3084,Antonella Rodríguez,Buenos Aires,no
+P-3085,Antonella Morales,Buenos Aires,no
+P-3086,Camila Rodríguez,Montevideo,no
+P-3087,Benjamín Medina,Lima,no
+P-3088,Martina Torres,Córdoba,no
+P-3089,Camila Medina,Montevideo,no
+P-3090,Diego Vargas,Buenos Aires,no
+P-3091,Isabella Herrera,Buenos Aires,no
+P-3092,Camila Ortiz,Córdoba,si
+P-3093,Diego Castro,São Paulo,si
+P-3094,Florencia Rodríguez,Montevideo,si
+P-3095,Camila Torres,São Paulo,no
+P-3096,Valentina Morales,Buenos Aires,no
+P-3097,Tomás Morales,Santiago,no
+P-3098,Lucas Morales,Bogotá,no
+P-3099,Nicolás Rodríguez,Buenos Aires,no
+P-3100,Diego Herrera,Santiago,no
+P-3101,Tomás Díaz,São Paulo,no
+P-3102,Camila González,Buenos Aires,no
+P-3103,Valentina Herrera,Santiago,si
+P-3104,Sofía Gómez,Bogotá,si
+P-3105,Sofía Castro,Córdoba,no
+P-3106,Santiago Castro,Bogotá,no
+P-3107,Antonella Díaz,Lima,no
+P-3108,Santiago Rojas,Córdoba,no
+P-3109,Sofía Ortiz,Buenos Aires,si
+P-3110,Florencia Ortiz,Santiago,no
+P-3111,Sofía Castro,Montevideo,no
+P-3112,Lucas Romero,Lima,no
+P-3113,Valentina Silva,Lima,no
+P-3114,Antonella Torres,São Paulo,no
+P-3115,Tomás Pérez,Buenos Aires,no
+P-3116,Florencia Medina,São Paulo,no

@@ -1,0 +1,201 @@
+codigo,pasajero_id,vuelo,fecha,estado,ubicacion,pir,actualizado
+OA-582331,P-1001,OA1203,2026-10-01,en_transito,AEP - cargada en bodega del OA1203,,2026-10-01 11:52
+OA-771045,P-1002,OA0530,2026-09-29,en_busqueda,sin ubicar - búsqueda en red de escalas,LIM-48213,2026-09-30 18:20
+OA-310877,P-1001,OA0761,2026-09-30,entregada,GRU - entregada en domicilio declarado,GRU-20551,2026-10-01 09:15
+OA-640212,P-1001,OA0761,2026-09-30,demorada,"EZE - localizada, sale en el próximo vuelo a GRU",GRU-20552,2026-10-01 07:40
+OA-830449,P-3043,OA1386,2026-10-01,en_transito,SCL - en bodega del OA1386,,2026-10-01 09:46
+OA-290908,P-3035,OA0420,2026-09-30,en_busqueda,sin ubicar,AEP-79776,2026-09-30 08:42
+OA-398471,P-3085,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 10:25
+OA-584361,P-3050,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 18:30
+OA-697051,P-3111,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 23:06
+OA-611809,P-3085,OA0870,2026-09-29,danada_reportada,BRC - reporte de daño,BRC-14514,2026-09-29 21:53
+OA-880409,P-3005,OA1241,2026-09-29,en_busqueda,sin ubicar,LIM-50255,2026-09-29 23:49
+OA-680939,P-3006,OA1575,2026-09-29,en_transito,SCL - en bodega del OA1575,,2026-09-29 11:27
+OA-546589,P-3078,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 23:27
+OA-390238,P-3083,OA0541,2026-09-30,entregada,BOG - retirada en cinta,,2026-09-30 13:34
+OA-980050,P-3050,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 08:28
+OA-721635,P-3001,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 15:08
+OA-532314,P-3080,OA0541,2026-09-30,entregada,BOG - retirada en cinta,,2026-09-30 09:56
+OA-345651,P-3065,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 16:29
+OA-587003,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 19:32
+OA-544979,P-3080,OA0541,2026-09-30,entregada,BOG - retirada en cinta,,2026-09-30 15:52
+OA-258109,P-3078,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 07:18
+OA-808732,P-3002,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 08:32
+OA-487205,P-3044,OA1727,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 14:22
+OA-594121,P-3003,OA1016,2026-09-30,en_busqueda,sin ubicar,AEP-40996,2026-09-30 13:36
+OA-407221,P-3031,OA1727,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 07:00
+OA-311627,P-3100,OA1546,2026-09-29,en_transito,GRU - en bodega del OA1546,,2026-09-29 10:08
+OA-775210,P-3092,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 10:21
+OA-243591,P-3006,OA1575,2026-09-29,en_busqueda,sin ubicar,LIM-81626,2026-09-29 07:05
+OA-198585,P-3035,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 15:44
+OA-772102,P-3001,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 21:04
+OA-627777,P-3001,OA0775,2026-09-30,en_transito,COR - en bodega del OA0775,,2026-09-30 08:08
+OA-851422,P-3085,OA0870,2026-09-29,demorada,"AEP - localizada, sale en el próximo vuelo",BRC-92381,2026-09-29 20:36
+OA-329129,P-3074,OA1645,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 08:37
+OA-786563,P-3061,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 06:27
+OA-604595,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 12:43
+OA-313107,P-3050,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 06:33
+OA-968944,P-3044,OA1727,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 10:50
+OA-890654,P-3043,OA1386,2026-10-01,en_transito,SCL - en bodega del OA1386,,2026-10-01 12:03
+OA-604966,P-3002,OA1575,2026-09-29,en_busqueda,sin ubicar,LIM-22463,2026-09-29 13:24
+OA-149096,P-3002,OA1575,2026-09-29,en_transito,SCL - en bodega del OA1575,,2026-09-29 22:13
+OA-398556,P-3002,OA1575,2026-09-29,en_busqueda,sin ubicar,LIM-78155,2026-09-29 11:33
+OA-872428,P-3083,OA0541,2026-09-30,entregada,BOG - retirada en cinta,,2026-09-30 22:13
+OA-609295,P-3053,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 08:56
+OA-357921,P-3006,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 20:33
+OA-899457,P-3089,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 14:58
+OA-125761,P-3038,OA2384,2026-09-30,perdida,no localizada en 21 días,MVD-53387,2026-09-30 06:52
+OA-694748,P-3081,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 23:41
+OA-481987,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 07:43
+OA-902690,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 13:11
+OA-462328,P-3032,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 09:18
+OA-751669,P-3038,OA2384,2026-09-30,en_transito,AEP - en bodega del OA2384,,2026-09-30 15:28
+OA-988142,P-3069,OA0866,2026-10-01,demorada,"AEP - localizada, sale en el próximo vuelo",LIM-75480,2026-10-01 22:03
+OA-564418,P-3006,OA1575,2026-09-29,en_transito,SCL - en bodega del OA1575,,2026-09-29 14:00
+OA-163474,P-3032,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 10:52
+OA-723876,P-3011,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 09:52
+OA-889275,P-3019,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 18:32
+OA-314322,P-3005,OA1241,2026-09-29,demorada,"SCL - localizada, sale en el próximo vuelo",LIM-60637,2026-09-29 12:01
+OA-403322,P-3061,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 11:46
+OA-639459,P-3032,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 10:29
+OA-348426,P-3082,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 12:21
+OA-869946,P-3068,OA1534,2026-09-30,entregada,EZE - retirada en cinta,,2026-09-30 06:10
+OA-906437,P-3060,OA1241,2026-09-29,en_transito,SCL - en bodega del OA1241,,2026-09-29 10:00
+OA-448122,P-3094,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 19:06
+OA-433690,P-3017,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 16:28
+OA-305855,P-3003,OA1016,2026-09-30,danada_reportada,AEP - reporte de daño,AEP-20058,2026-09-30 17:57
+OA-716613,P-3014,OA1459,2026-09-30,entregada,LIM - retirada en cinta,,2026-09-30 14:21
+OA-443274,P-3012,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 06:59
+OA-557945,P-3060,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 14:40
+OA-869124,P-3019,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 19:24
+OA-410876,P-3111,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 15:09
+OA-251363,P-3017,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 16:37
+OA-344019,P-3071,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 16:48
+OA-114733,P-3050,OA1546,2026-09-29,en_transito,GRU - en bodega del OA1546,,2026-09-29 14:04
+OA-560179,P-3019,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 06:28
+OA-707728,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 17:05
+OA-703254,P-3111,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 12:12
+OA-734381,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 06:18
+OA-659988,P-3092,OA2192,2026-09-30,demorada,"LIM - localizada, sale en el próximo vuelo",SCL-51227,2026-09-30 10:05
+OA-421315,P-3089,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 16:47
+OA-761631,P-3094,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 10:03
+OA-665642,P-3018,OA1386,2026-10-01,en_transito,SCL - en bodega del OA1386,,2026-10-01 20:39
+OA-346519,P-3001,OA0775,2026-09-30,en_busqueda,sin ubicar,AEP-92871,2026-09-30 13:38
+OA-963158,P-3043,OA1386,2026-10-01,en_transito,SCL - en bodega del OA1386,,2026-10-01 07:31
+OA-904708,P-3013,OA1241,2026-09-29,perdida,no localizada en 21 días,LIM-33673,2026-09-29 06:15
+OA-352166,P-3061,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 18:06
+OA-686287,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 20:27
+OA-185617,P-3043,OA1386,2026-10-01,en_transito,SCL - en bodega del OA1386,,2026-10-01 08:14
+OA-795775,P-3100,OA1546,2026-09-29,en_busqueda,sin ubicar,EZE-82104,2026-09-29 09:21
+OA-263978,P-3059,OA1727,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 17:42
+OA-735337,P-3034,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 13:33
+OA-747392,P-3085,OA0870,2026-09-29,en_transito,AEP - en bodega del OA0870,,2026-09-29 06:41
+OA-337387,P-3068,OA1534,2026-09-30,entregada,EZE - retirada en cinta,,2026-09-30 12:40
+OA-830043,P-3032,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 16:02
+OA-711064,P-3005,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 11:18
+OA-360273,P-3088,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 19:33
+OA-370953,P-3088,OA2192,2026-09-30,danada_reportada,SCL - reporte de daño,SCL-10406,2026-09-30 07:20
+OA-429924,P-3035,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 18:53
+OA-150990,P-3091,OA1241,2026-09-29,en_transito,SCL - en bodega del OA1241,,2026-09-29 17:40
+OA-825724,P-3042,OA1016,2026-09-30,en_busqueda,sin ubicar,AEP-39075,2026-09-30 17:01
+OA-892929,P-3035,OA0420,2026-09-30,danada_reportada,AEP - reporte de daño,AEP-38839,2026-09-30 08:18
+OA-241250,P-3011,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 14:56
+OA-246351,P-3081,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 08:09
+OA-392998,P-3017,OA1241,2026-09-29,en_transito,SCL - en bodega del OA1241,,2026-09-29 10:13
+OA-780415,P-3083,OA0541,2026-09-30,en_transito,MDE - en bodega del OA0541,,2026-09-30 07:58
+OA-393771,P-3024,OA2192,2026-09-30,perdida,no localizada en 21 días,SCL-53794,2026-09-30 23:19
+OA-170254,P-3043,OA1386,2026-10-01,en_transito,SCL - en bodega del OA1386,,2026-10-01 12:16
+OA-232454,P-3003,OA1016,2026-09-30,en_transito,COR - en bodega del OA1016,,2026-09-30 06:19
+OA-277422,P-3045,OA2814,2026-09-30,devuelta_al_pasajero,AEP - devuelta en mostrador,,2026-09-30 10:48
+OA-558248,P-3032,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 07:11
+OA-499089,P-3100,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 23:59
+OA-205347,P-3111,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 06:08
+OA-153456,P-3028,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 06:40
+OA-975256,P-3011,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 13:30
+OA-211118,P-3060,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 23:41
+OA-883358,P-3024,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 12:18
+OA-464375,P-3014,OA1459,2026-09-30,perdida,no localizada en 21 días,LIM-72110,2026-09-30 11:24
+OA-566141,P-3068,OA1534,2026-09-30,danada_reportada,EZE - reporte de daño,EZE-20307,2026-09-30 14:37
+OA-114055,P-3094,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 18:20
+OA-640344,P-3045,OA2814,2026-09-30,devuelta_al_pasajero,AEP - devuelta en mostrador,,2026-09-30 22:31
+OA-704215,P-3006,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 11:42
+OA-405732,P-3043,OA1386,2026-10-01,en_transito,SCL - en bodega del OA1386,,2026-10-01 12:56
+OA-322034,P-3100,OA1546,2026-09-29,en_transito,GRU - en bodega del OA1546,,2026-09-29 17:54
+OA-894179,P-3024,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 18:55
+OA-606720,P-3111,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 06:09
+OA-850644,P-3068,OA1534,2026-09-30,perdida,no localizada en 21 días,EZE-85492,2026-09-30 17:24
+OA-566633,P-3047,OA0870,2026-09-29,en_busqueda,sin ubicar,BRC-59613,2026-09-29 13:33
+OA-681580,P-3091,OA1241,2026-09-29,demorada,"SCL - localizada, sale en el próximo vuelo",LIM-72470,2026-09-29 20:55
+OA-634071,P-3092,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 14:25
+OA-449763,P-3059,OA1727,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 10:27
+OA-249257,P-3085,OA0870,2026-09-29,en_busqueda,sin ubicar,BRC-27332,2026-09-29 12:24
+OA-767536,P-3003,OA1016,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 16:45
+OA-468689,P-3078,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 12:33
+OA-950675,P-3094,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 11:48
+OA-912718,P-3002,OA1575,2026-09-29,perdida,no localizada en 21 días,LIM-55720,2026-09-29 08:43
+OA-853642,P-3005,OA1241,2026-09-29,en_transito,SCL - en bodega del OA1241,,2026-09-29 06:57
+OA-769477,P-3044,OA1727,2026-09-30,perdida,no localizada en 21 días,GRU-89707,2026-09-30 09:43
+OA-116987,P-3059,OA1727,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 19:20
+OA-695435,P-3024,OA2192,2026-09-30,en_transito,LIM - en bodega del OA2192,,2026-09-30 09:19
+OA-657574,P-3092,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 19:12
+OA-712853,P-3060,OA1241,2026-09-29,en_busqueda,sin ubicar,LIM-42042,2026-09-29 20:24
+OA-293967,P-3074,OA1645,2026-09-30,demorada,"ASU - localizada, sale en el próximo vuelo",GRU-76182,2026-09-30 23:10
+OA-411397,P-3084,OA1546,2026-09-29,en_transito,GRU - en bodega del OA1546,,2026-09-29 13:50
+OA-193224,P-3061,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 13:40
+OA-268087,P-3013,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 07:47
+OA-735464,P-3002,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 18:55
+OA-303229,P-3003,OA1016,2026-09-30,en_transito,COR - en bodega del OA1016,,2026-09-30 20:47
+OA-580058,P-3110,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 21:14
+OA-487382,P-3034,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 07:45
+OA-150582,P-3100,OA1546,2026-09-29,en_transito,GRU - en bodega del OA1546,,2026-09-29 21:06
+OA-696547,P-3084,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 21:10
+OA-323717,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 06:47
+OA-917216,P-3092,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 13:14
+OA-140406,P-3034,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 12:29
+OA-483702,P-3060,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 17:32
+OA-134850,P-3002,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 12:04
+OA-976333,P-3023,OA1273,2026-10-01,en_transito,LIM - en bodega del OA1273,,2026-10-01 14:55
+OA-314056,P-3111,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 21:37
+OA-477662,P-3053,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 20:35
+OA-131494,P-3024,OA2192,2026-09-30,entregada,SCL - retirada en cinta,,2026-09-30 08:18
+OA-260632,P-3100,OA1546,2026-09-29,demorada,"GRU - localizada, sale en el próximo vuelo",EZE-46876,2026-09-29 09:36
+OA-561703,P-3069,OA0866,2026-10-01,demorada,"AEP - localizada, sale en el próximo vuelo",LIM-25637,2026-10-01 20:13
+OA-783500,P-3042,OA1016,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 19:53
+OA-922994,P-3050,OA1546,2026-09-29,demorada,"GRU - localizada, sale en el próximo vuelo",EZE-43496,2026-09-29 22:52
+OA-336870,P-3006,OA1575,2026-09-29,en_transito,SCL - en bodega del OA1575,,2026-09-29 21:21
+OA-368883,P-3031,OA1727,2026-09-30,entregada,GRU - retirada en cinta,,2026-09-30 16:10
+OA-325897,P-3089,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 12:18
+OA-724356,P-3061,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 17:01
+OA-349107,P-3078,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 17:24
+OA-880526,P-3031,OA1727,2026-09-30,demorada,"ASU - localizada, sale en el próximo vuelo",GRU-95888,2026-09-30 09:09
+OA-107881,P-3009,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 12:07
+OA-869349,P-3084,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 12:59
+OA-316208,P-3013,OA1241,2026-09-29,en_transito,SCL - en bodega del OA1241,,2026-09-29 13:02
+OA-956231,P-3019,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 16:34
+OA-249443,P-3047,OA0870,2026-09-29,en_transito,AEP - en bodega del OA0870,,2026-09-29 11:25
+OA-921080,P-3012,OA1241,2026-09-29,en_transito,SCL - en bodega del OA1241,,2026-09-29 18:50
+OA-341915,P-3042,OA1016,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 09:11
+OA-723252,P-3001,OA0775,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 07:26
+OA-544197,P-3016,OA0870,2026-09-29,demorada,"AEP - localizada, sale en el próximo vuelo",BRC-43126,2026-09-29 12:54
+OA-178499,P-3017,OA1241,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 12:21
+OA-983012,P-3028,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 16:32
+OA-786519,P-3094,OA1424,2026-10-01,en_transito,SCL - en bodega del OA1424,,2026-10-01 07:24
+OA-563183,P-3003,OA1016,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 20:15
+OA-562254,P-3072,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 11:37
+OA-993016,P-3032,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 10:26
+OA-678578,P-3034,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 22:58
+OA-682765,P-3011,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 11:06
+OA-216503,P-3072,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 16:01
+OA-398025,P-3065,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 19:04
+OA-358474,P-3006,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 23:48
+OA-233007,P-3047,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 06:58
+OA-540608,P-3035,OA0420,2026-09-30,entregada,AEP - retirada en cinta,,2026-09-30 16:12
+OA-609144,P-3045,OA2814,2026-09-30,devuelta_al_pasajero,AEP - devuelta en mostrador,,2026-09-30 22:13
+OA-314490,P-3081,OA0956,2026-10-01,en_transito,AEP - en bodega del OA0956,,2026-10-01 11:43
+OA-211842,P-3044,OA1727,2026-09-30,demorada,"ASU - localizada, sale en el próximo vuelo",GRU-40223,2026-09-30 08:53
+OA-224862,P-3078,OA1721,2026-10-01,en_transito,LIM - en bodega del OA1721,,2026-10-01 15:24
+OA-409371,P-3100,OA1546,2026-09-29,entregada,EZE - retirada en cinta,,2026-09-29 15:32
+OA-787063,P-3100,OA1546,2026-09-29,en_busqueda,sin ubicar,EZE-37359,2026-09-29 07:52
+OA-724663,P-3002,OA1575,2026-09-29,entregada,LIM - retirada en cinta,,2026-09-29 07:25
+OA-623875,P-3031,OA1727,2026-09-30,en_transito,ASU - en bodega del OA1727,,2026-09-30 06:03
+OA-595528,P-3071,OA0870,2026-09-29,entregada,BRC - retirada en cinta,,2026-09-29 21:44

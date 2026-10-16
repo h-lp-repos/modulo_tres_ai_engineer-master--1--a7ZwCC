@@ -1,0 +1,9 @@
+{
+  "_nota": "Precios en USD por 1 MILLÓN de tokens. Verificar antes de cada cursada en las páginas oficiales de pricing: cambian seguido.",
+  "_verificado": "2026-09",
+  "openai": {
+    "gpt-4.1-mini": {"input": 0.40, "output": 1.60},
+    "gpt-4.1": {"input": 2.00, "output": 8.00},
+    "text-embedding-3-small": {"input": 0.02, "output": 0.00}
+  }
+}

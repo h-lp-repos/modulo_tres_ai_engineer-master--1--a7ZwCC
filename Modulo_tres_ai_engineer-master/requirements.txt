@@ -1,0 +1,11 @@
+openai>=1.50
+tiktoken>=0.8
+numpy>=1.26
+python-dotenv>=1.0
+# C2 · LangGraph
+langgraph>=1.0
+langgraph-checkpoint-sqlite>=2.0
+# C4 · MCP (SDK oficial, 2.x: MCPServer + Client)
+mcp>=2.3
+# C5 · Langfuse (SDK 4.x, OpenTelemetry)
+langfuse>=4.0
